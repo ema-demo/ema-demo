@@ -1,4 +1,5 @@
 {
   "type": "da",
-  "contentHostUrl": "https://content.da.live/gabrielwalt/wknd-import/"
+  "contentHostUrl": "https://content.da.live/ema-demo/ema-demo/",
+  "demoMode": true
 }
